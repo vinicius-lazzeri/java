@@ -1,6 +1,6 @@
 package operadores;
 
-import javax.xml.bind.SchemaOutputResolver;
+//import javax.xml.bind.SchemaOutputResolver;
 
 public class Repeticao {
     public static void main(String[] args) {
